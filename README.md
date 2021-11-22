@@ -1,5 +1,5 @@
 
-![This is an image](//github.com/Fbullman/Plotly-belly-button-biodiversity/blob/main/static/images/lab1.jpg)
+![This is an image](https://github.com/Fbullman/Plotly-belly-button-biodiversity/blob/main/static/images/lab1.jpg)
 
 # Plotly-belly-button-biodiversity
 ## Overview
