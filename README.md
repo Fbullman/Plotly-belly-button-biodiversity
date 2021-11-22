@@ -1,7 +1,6 @@
 
-![This is an image](https://github.com/Fbullman/Plotly-belly-button-biodiversity/blob/main/Bacteria%20V.png)
-
 # Plotly-belly-button-biodiversity
+
 ## Overview
 
 Building a interactive dashboard to catalog the microbes colonized in human belly-buttons. 
