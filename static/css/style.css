@@ -6,7 +6,7 @@ body {
 
 /* Customize the Jumbotron */
 .jumbotron {
-    background-image: url("../images/lab.jpg");
+    background-image: url("https://raw.githubusercontent.com/Fbullman/Plotly-belly-button-biodiversity/main/static/images/lab.jpg");
     background-size: 90% 90%;
     text-align: center;
     
