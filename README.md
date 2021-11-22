@@ -1,18 +1,20 @@
 
-![This is an image](https://github.com/Fbullman/UFOs/blob/main/static/images/nasaSS.jpg)
+![This is an image](//github.com/Fbullman/Plotly-belly-button-biodiversity/blob/main/static/images/lab1.jpg)
 
 # Plotly-belly-button-biodiversity
 ## Overview
 
 Building a interactive dashboard to catalog the microbes colonized in human belly-buttons. 
 
-![This is an image](https://github.com/Fbullman/UFOs/blob/main/static/images/nasaSS.jpg)
+![This is an image](https://github.com/Fbullman/Plotly-belly-button-biodiversity/blob/main/static/images/images.jpg)
 
 ### Summary
 The interactive dashboard allows the user to explore the results by "Subject ID". The data shows a handful of species, referred to as OTUs (Operational Taxonomic Units) that are present in or on more than 70% of people.
 
 
 You can access the website though GitHub pages or click here
+
+https://fbullman.github.io/Plotly-belly-button-biodiversity/
 
 
 ## Tools used for this project:
