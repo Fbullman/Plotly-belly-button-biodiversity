@@ -1,23 +1,24 @@
 /* Apply a light text to the body */
 body {
-    background: linear-gradient(to left top, rgb(61, 88, 149), rgb(40, 119, 129));
+    background: linear-gradient(to left top, rgb(4, 18, 53), rgb(40, 119, 129));
     color: #000000;
 }
 
 /* Customize the Jumbotron */
 .jumbotron {
-    background-image: url("..Plotly/images/lab.jpg");
-    background-size: 100% 100%;
-    text-shadow: embedded;
+    background-image: url("../images/lab.jpg");
+    background-size: 90% 90%;
     text-align: center;
+    
 }
 
 /* Change color in the panel-body */
 .panel-body {
-    background:rgb(107, 103, 129);}
+    background:#8ac7e4;}
 
 /* Change Text Color of Selected Option in a Select Box */
-select {
+select{
     color: rgb(7, 7, 7); 
 }
+
 
